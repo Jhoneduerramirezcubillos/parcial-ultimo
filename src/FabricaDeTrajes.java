@@ -44,8 +44,6 @@ Componente componente3 = new Componente("falda", "S", 5.0) {};
     }
 
 
-    // Resto de métodos implementados según la interfaz IFabricadeTrajes
-    // ...
 
     @Override
     public void añadirComponenteAAlmacen() throws IdException, MuchoExtracomunitarioException, MangaException {
